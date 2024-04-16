@@ -10,10 +10,11 @@
  many generations, I tried to improve the solutios to get near to the optimal solution,
  and this is the idea of Genetic Algorithms.
 
-lines[^2]
+---
+
 * ## Sudoko-Problem
   - There is another code that tries to solve sodoko problem, but it is not
   the perfect one, as sodoke is not easy to solve using GA. I think If the
   parameters or the methods of the GA Operators changed, it will be much possible
   to get to the optimal solution, but tell now, it seldom get to the optimal solution.
-![Sodoko Image]([https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.vecteezy.com%2Fvector-art%2F15582380-sudoku-game-with-solution&psig=AOvVaw0ulhfDuXVPfs1wsy2QSlcT&ust=1713350331137000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCLiN08DFxoUDFQAAAAAdAAAAABAE](https://www.researchgate.net/profile/Himanshu-Jain-25/publication/228566840/figure/fig1/AS:302046273130496@1449024851051/Sudoku-puzzles-and-its-solution.png))
+![Sodoko Image](https://miro.medium.com/v2/resize:fit:612/1*-Tycok5Hf5PXRv-QrJXpKA.jpeg)
