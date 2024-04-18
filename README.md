@@ -16,6 +16,6 @@
   - There is another code that tries to solve sudoko problem, but it is not
   the perfect one, as sudoke is not easy to solve using GA. I think If the
   parameters or the methods of the GA Operators changed, it will be much possible
-  to get to the optimal solution, but tell now, it seldom get to the optimal solution.
+  to get to the optimal solution, but till now, it seldom gets to the optimal solution.
 
 ![Sodoko Image](https://miro.medium.com/v2/resize:fit:612/1*-Tycok5Hf5PXRv-QrJXpKA.jpeg)
